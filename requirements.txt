@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+torch
+transformers
+qwen_vl_utils
+sentence_transformers
+modelscope
+litellm
